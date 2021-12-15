@@ -2,8 +2,8 @@
 	"name": "Spacedust",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#684c31",
-		"sideBar.background": "#684c31",
+		"editor.background": "#0a1e24",
+		"sideBar.background": "#2c3f46",
 		"selection.background": "#67a0ce",
 		"titleBar.activeBackground": "#684c31",
 		"tab.inactiveBackground": "#684c31",
