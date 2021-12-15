@@ -1,13 +1,13 @@
 {
-    "name": "material-dark-color-theme",
-    "displayName": "Material Dark Color Theme",
-    "description": "Nice color theme by Sondre Sørbye",
-    "version": "0.0.2",
-    "author": "Magson",
-    "publisher": "magson",
+    "name": "spacedust-color-scheme",
+    "displayName": "Spacedust Color Scheme",
+    "description": "Spacedust Color Scheme",
+    "version": "0.2.0",
+    "author": "Mecaneer23",
+    "publisher": "mecaneer23",
     "icon": "assets/icon.png",
     "readme": "README.md",
-    "repository": "https://github.com/sondresorbye0111/material-dark-theme",
+    "repository": "https://github.com/Mecaneer23/Spacedust-color-scheme",
     "engines": {
         "vscode": "^1.33.0"
     },
@@ -17,9 +17,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "Material Dark",
+                "label": "Spacedust",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Material Dark-color-theme.json"
+                "path": "./themes/spacedust-color-scheme.json"
             }
         ]
     }
