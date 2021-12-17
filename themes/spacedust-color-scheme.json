@@ -7,7 +7,7 @@
 		"selection.background": "#67a0ce",
 		"titleBar.activeBackground": "#11343E",
 		"tab.inactiveBackground": "#11343E",
-		"titleBar.inactiveBackground": "#ff0000",
+		"titleBar.inactiveBackground": "#67a0ce",
 		"editorGroupHeader.tabsBackground": "#11343E",
 		"progressBar.background": "#67a0ce",
 		"editor.foreground": "#67a0ce",
