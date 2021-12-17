@@ -5,7 +5,7 @@
     "version": "0.2.1",
     "author": "Mecaneer23",
     "publisher": "mecaneer23",
-    "icon": "assets/icon.png",
+    "icon": "icon.png",
     "readme": "README.md",
     "repository": "https://github.com/Mecaneer23/Spacedust-color-scheme",
     "engines": {
@@ -19,7 +19,7 @@
             {
                 "label": "Spacedust",
                 "uiTheme": "vs-dark",
-                "path": "./themes/spacedust-color-scheme.json"
+                "path": "./spacedust-color-scheme.json"
             }
         ]
     }
